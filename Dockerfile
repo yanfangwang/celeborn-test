@@ -1,1 +1,1 @@
-docker.io/volcanosh/vc-webhook-manager:latest
+From docker.io/volcanosh/vc-webhook-manager:latest
